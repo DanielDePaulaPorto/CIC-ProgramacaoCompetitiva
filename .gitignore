@@ -1,3 +1,24 @@
+# ignora os binários
+*.
+
+# Mas não ignora diretórios
+!*/
+
+# E não ignora arquivos com extensão
+!*.c
+!*.cpp
+!*.h
+!*.md
+!*.txt
+!*.py
+!*.js
+!*.java
+
+# E mantém arquivos específicos que você sabe que são importantes mesmo sem extensão
+!Makefile
+!LICENSE
+!README
+
 # Prerequisites
 *.d
 
@@ -30,3 +51,15 @@
 *.exe
 *.out
 *.app
+
+.idea/
+
+cmake-build-debug/
+
+cmake-build-debug-gcc/
+
+*.dSYM
+.DS_Store
+
+Testes/
+
