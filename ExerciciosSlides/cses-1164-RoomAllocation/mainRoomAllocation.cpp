@@ -37,9 +37,8 @@ int main(){
     int maior_alocacao_simultanea = 0;
     int ultimo_hospede_que_saiu = 0;
 
-    // Não preciso inicializar a pilha com todos os quartos disponíveis.
     // Vamos deixar para ir criando os quartos à medida que for necessários.
-    // Sempre que um quarto deixar de ser utilizado, colocamos ele na pilha
+    // Sempre que um quarto deixar de ser utilizado, colocamos ele na fila
     // de disponíveis para poder ser usado para o próximo que precisar
 
     cin >> n;
