@@ -1,0 +1,21 @@
+Psum 2D e "N"D - Arthur Botelho - https://cses.fi/problemset/task/1652
+String Matching: KMP - Arthur Botelho - https://cses.fi/problemset/task/1753
+Algoritmo de Mo - Arthur Botelho - https://cses.fi/problemset/task/1734
+Mínimo no intervalo em O(1): Sparse Tables - Arthur Botelho - https://cses.fi/problemset/task/1647
+Diametro em arvore - Lucas Sala - https://cses.fi/problemset/task/1131
+Argumento da troca - Lucas Sala - https://cses.fi/problemset/task/1629
+Convex Hull (envoltória convexa) - Caleb Martim - https://cses.fi/problemset/task/2195
+Produto Vetorial - Luiz Eduardo - https://cses.fi/problemset/task/2189
+LCA/Binary lifting - Luiz Eduardo - https://cses.fi/problemset/task/1688
+Subarray de maior soma - Luiz Eduardo - https://cses.fi/problemset/task/1643
+Knapsack 0-1 - Pedro Avila - https://cses.fi/problemset/task/1158
+Segtree - Emerson - https://cses.fi/problemset/task/1646
+DSU - Emerson - https://cses.fi/problemset/task/1676
+Fatoração em primos - Luiz Eduardo - https://cses.fi/problemset/task/1713
+Maior Subsequência Crescente - Emerson - https://cses.fi/alon/task/1145
+Edit Distance - Emerson - https://cses.fi/problemset/task/1639
+Exponenciação de matrizes (Matrix Exponentiation) - Caleb Martim  - https://cses.fi/problemset/task/1722
+Pequeno teorema de Fermat - Arthur Bispo - https://cses.fi/problemset/task/1713
+Trie: Árvore de Prefixos (quero estudar melhor esse conteúdo) - João Carlos - https://codeforces.com/gym/105900/problem/I
+String Hashing - Arthur Bispo - https://cses.fi/problemset/task/1111
+MST: Kruskal - Iasmim - https://cses.fi/problemset/task/1675
